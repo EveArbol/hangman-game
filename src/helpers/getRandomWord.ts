@@ -1,12 +1,13 @@
 const words: string[] = [
-    'COMPUTADORA',
+    'PUTA',
+    'MAMASITA',
+    'BEBECITA',
+    'PERREO',
     'LUA',
-    'COMER',
-    'PEZ',
-    'AGUACATE',
-    'CARRO',
-    'PERRO',
-    'VETERINARIO'
+    'BENDICIONES',
+    'ZORRA',
+    'BELLAKEO',
+    'ANUEL'
 ];
 
 

@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 
 # Hangman game
-Exercise from the Beginners Programming Course - Hangman Game in React
+Exercise from the Beginners Programming - Hangman Game in React
 
 # Execute:
 
